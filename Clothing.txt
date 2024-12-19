@@ -1,0 +1,2 @@
+
+Product Name: Coat|Price: 30000.0|Quantity: 4|Discount: 25.0%|Description: Warm|Image: C:\Users\lenovo\OneDrive\Pictures\download.jpg

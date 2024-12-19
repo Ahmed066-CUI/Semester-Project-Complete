@@ -1,0 +1,3 @@
+Product Name: Headphone|Price: 3000.0|Quantity: 55|Discount: 8.0%|Description: Amazing sound Quality|Image: Image Selected: C:\Users\lenovo\OneDrive\Desktop\PicsforProject\headphone.jpg
+Product Name: Airpods|Price: 4000.0|Quantity: 10|Discount: 20.0%|Description: Best in the Market. I reward 5 stars.|Image: Image Selected: C:\Users\lenovo\OneDrive\Desktop\PicsforProject\airpods.jpg
+Product Name: Iphone|Price: 300000.0|Quantity: 2|Discount: 0.0%|Description: Expensive but best mobile|Image: Image Selected: C:\Users\lenovo\OneDrive\Desktop\PicsforProject\phone.jpg

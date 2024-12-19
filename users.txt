@@ -1,0 +1,7 @@
+1,1
+hammas,h1
+eman,e1
+ggg,uftfu
+sami,s1
+
+hammas2,h1

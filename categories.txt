@@ -1,0 +1,5 @@
+Groceries
+Clothing
+TECHnology
+Pets
+temp

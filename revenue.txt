@@ -1,0 +1,16 @@
+Revenue from Order: Rs_30500.0
+Total Revenue So Far: Rs_0.0
+
+
+Revenue from Order: Rs_500.0
+Total Revenue So Far: Rs_30500.0
+
+
+Revenue from Order: Rs_500.0
+Total Revenue So Far: Rs_31000.0
+
+
+Revenue from Order: Rs_60500.0
+Total Revenue So Far: Rs_31500.0
+
+

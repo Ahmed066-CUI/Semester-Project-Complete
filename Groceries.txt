@@ -1,0 +1,3 @@
+Product Name: Wheat|Price: 120.0|Quantity: 500|Discount: 0.0%|Description: Great in town|Image: Image Selected: C:\Users\lenovo\OneDrive\Desktop\PicsforProject\wheat.jpg
+Product Name: Tea|Price: 300.0|Quantity: 30|Discount: 60.0%|Description: Tea is fantastic|Image: Image Selected: C:\Users\lenovo\OneDrive\Desktop\PicsforProject\tea.png
+Product Name: abc|Price: 400.0|Quantity: 2|Discount: 70.0%|Description: abcxccc|Image: Image Selected: C:\Users\lenovo\OneDrive\Pictures\game.jpg

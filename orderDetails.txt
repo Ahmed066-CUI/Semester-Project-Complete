@@ -1,0 +1,52 @@
+----- Order Details -----
+Customer Name:  
+Email: 
+Phone: 
+Address: 
+City: 
+Country: null
+Payment Method: Cash on Delivery
+Subtotal: Rs_30000.0
+Shipping: Rs_500
+Grand Total: Rs_30500.0
+
+
+----- Order Details -----
+Customer Name:  
+Email: 
+Phone: 
+Address: 
+City: 
+Country: null
+Payment Method: Cash on Delivery
+Subtotal: Rs_0.0
+Shipping: Rs_500
+Grand Total: Rs_500.0
+
+
+----- Order Details -----
+Customer Name:  
+Email: 
+Phone: 
+Address: 
+City: 
+Country: null
+Payment Method: Cash on Delivery
+Subtotal: Rs_1100.0
+Shipping: Rs_500
+Grand Total: Rs_1600.0
+
+
+----- Order Details -----
+Customer Name:  
+Email: 
+Phone: 
+Address: 
+City: 
+Country: null
+Payment Method: Cash on Delivery
+Subtotal: Rs_60000.0
+Shipping: Rs_500
+Grand Total: Rs_60500.0
+
+
